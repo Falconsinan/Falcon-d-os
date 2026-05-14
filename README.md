@@ -18,7 +18,7 @@ Advanced Python based tool by SINAN.
 
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/YOUR_USERNAME/FALCON.git
+git clone https://github.com/Falconsinan/Falcon-d-os.git
 cd FALCON
 pip install -r requirements.txt
 python start.py
