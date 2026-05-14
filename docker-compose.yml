@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  faddos:
+    # built
+    build: .
+    container_name: falcon
+    restart: unless-stopped
+    volumes:
+      - ./config.json:/app/config.json
+      - ./files:/app/files
+     
+    
+    

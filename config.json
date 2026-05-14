@@ -1,0 +1,13 @@
+{
+  "MCBOT": "Falconos_",
+  "MINECRAFT_DEFAULT_PROTOCOL": 47,
+  "proxy-providers": [
+
+		{"type":4, "url": "your proxy",  "timeout": 5},
+
+		{"type":5, "url": "your proxy",  "timeout": 5},
+
+		{"type":1, "url": "your proxy ",  "timeout": 5}
+		
+	]
+}
